@@ -8,5 +8,6 @@ Spotify REMAKE; this remake is inspired by lots of people! will add their links 
 1. [py to exe](https://youtu.be/bqNvkAfTvIc?si=wvrNFoI7YKaM2FOo)
 2. [BroCode PYTHON FULL COURSE](https://youtu.be/ix9cRaBkVe0?si=shXazcpiAIpg7zxq)
 3. [Desktop App With Python](https://youtube.com/playlist?list=PLMi6KgK4_mk1D65-UEJxS_pqPkTHy64ip&si=mjro1Iws6SPD8rSs)
+4. [How To Install Tkinter](https://www.youtube.com/watch?v=798E7JalkII)
 
 # More To Be Added Soon...
